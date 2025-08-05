@@ -16,10 +16,7 @@ from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
-# --- Environment Setup ---
-# Option 1: Manual key override (optional for debugging)
-api_key = "AIzaSyBBOzgIJCZhgHZ1djq_Uj7d5upY_78uYZ"
-os.environ["GOOGLE_API_KEY"] = api_key
+# --- Environment Setup --
 
 # Option 2: Load from .env (if preferred)
 load_dotenv()
