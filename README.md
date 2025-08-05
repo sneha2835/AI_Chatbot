@@ -9,7 +9,7 @@ This tool is designed to accelerate research by helping you quickly query inform
 * [Key Features](#-key-features)
 * [Tech Stack](#-tech-stack)
 * [Setup and Installation](#-setup-and-installation)
-* * [How to Use](#-how-to-use)
+* [How to Use](#-how-to-use)
 * [Contact](#-contact)
 -----
 
