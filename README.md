@@ -5,16 +5,12 @@ Your research buddy for interactive document analysis. This web application allo
 This tool is designed to accelerate research by helping you quickly query information across multiple sources and discover new avenues of inquiry through AI-generated prompts.
 
 -----
- Table of Contents
-Key Features
-
-Tech Stack
-
-Setup and Installation
-
-How to Use
-
-Contact
+ # Table of Contents
+ Key Features
+ Tech Stack
+ Setup and Installation
+ How to Use
+ Contact
 -----
 
 ## ✨ Key Features
