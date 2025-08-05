@@ -1,16 +1,16 @@
-# AI Research Companion 🤖
+## AI Research Companion 🤖
 
 Your research buddy for interactive document analysis. This web application allows you to upload up to three PDF documents and have an intelligent, suggestion-driven conversation about their combined content.
 
 This tool is designed to accelerate research by helping you quickly query information across multiple sources and discover new avenues of inquiry through AI-generated prompts.
 
 -----
- # Table of Contents
- Key Features
- Tech Stack
- Setup and Installation
- How to Use
- Contact
+ ## Table Of contents
+* [Key Features](#-key-features)
+* [Tech Stack](#-tech-stack)
+* [Setup and Installation](#-setup-and-installation)
+* * [How to Use](#-how-to-use)
+* [Contact](#-contact)
 -----
 
 ## ✨ Key Features
