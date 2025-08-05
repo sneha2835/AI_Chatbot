@@ -103,11 +103,3 @@ Follow these steps to get the application running on your local machine.
 4.  **Start Over**: Click the "Clear Session" button at any time to remove all uploaded documents and begin a new research session.
 
 -----
-
-##  Contact
-
-  * **GitHub**: [Srinidhi945](https://www.google.com/search?q=https://github.com/Srinidhi945)
-  * **LinkedIn**: www.linkedin.com/in/srinidhi-poreddy
- 
-
------
