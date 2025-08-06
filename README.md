@@ -109,5 +109,7 @@ Follow these steps to get the application running on your local machine.
   * **GitHub**: [Srinidhi945](https://www.google.com/search?q=https://github.com/Srinidhi945)
   * **LinkedIn**: www.linkedin.com/in/srinidhi-poreddy
  
+  * **GitHub**: [sneha2835](https://www.google.com/search?q=https://github.com/sneha2835)
+
 
 -----
